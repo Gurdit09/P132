@@ -1,0 +1,9 @@
+body
+{
+    background-size: cover;
+}
+
+#back_btn
+{
+    float: right;
+}
